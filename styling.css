@@ -1,0 +1,27 @@
+#headerDiv{
+    position:absolute;
+    left:20px;
+    top:20px;
+    margin-bottom:-6%;
+}
+
+#mainDiv{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    background-color:beige;
+    text-align:center;
+    max-width:50%;
+    max-height:50vh;
+    margin-top:10%;
+    margin-left:28%;
+}
+
+button{
+    padding:1em;
+    margin:2em;
+    background-color:rgb(13, 136, 230);
+    color:White;
+    border-radius:10px;
+    border:0px;
+}
